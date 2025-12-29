@@ -18,3 +18,7 @@ img {
 .btn-format {
   display: flex;
 }
+
+.select-format {
+  display: flex;
+}
