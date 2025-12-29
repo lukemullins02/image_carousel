@@ -10,6 +10,11 @@ img {
 .container {
   background-color: rgb(220, 113, 113);
   display: flex;
+  flex-direction: column;
   place-items: center;
   justify-content: center;
+}
+
+.btn-format {
+  display: flex;
 }
