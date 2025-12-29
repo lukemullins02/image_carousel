@@ -81,4 +81,4 @@ container.addEventListener("click", (e) => {
   id = Number(e.target.dataset.id);
 });
 
-// setInterval(() => switchPic(), 5000);
+setInterval(() => next(), 5000);
